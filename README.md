@@ -1,4 +1,4 @@
-{{cookiecutter.project_name}}
+End to End DS project
 ==============================
 
 {{cookiecutter.description}}
